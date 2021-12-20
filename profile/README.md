@@ -7,7 +7,7 @@ We use NetherGames to expand our experience while building something awesome.
 ## What we do
 
 - We try to open-source many projects to assist the community and make a change
-- Using Java, C++, Go and Rust to build modular and fast projects that run on our network
+- Using PHP, Java, C++, Go and Rust to build modular and fast projects that run on our network
 - Using PHPStan (maximum level) on (almost) all of our projects to find issues before they ever occur!
 
 ## Got you interested?
