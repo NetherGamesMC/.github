@@ -1,6 +1,6 @@
 ![NetherGames](https://cdn.nethergames.org/img/logo/one-line-non-flush-light.png)
 ## Who we are
-We are an international Minecraft: Bedrock Edition server with over 2.7 million registered players and over 40 thousand new ones joining us each week! <br/>
+We are an international Minecraft: Bedrock Edition server with over 3.3 million registered players and over 40 thousand new ones joining us each week! <br/>
 The development team is made up of around 20 people, coming from all around the world: America, India, Russia, Germany, Great Britain, Australia, Belgium etc. <br/>
 We use NetherGames to expand our experience while building something awesome.
 
