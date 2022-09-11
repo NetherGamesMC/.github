@@ -1,18 +1,14 @@
 name: Auto Merge
 
 on:
-  pull_request_target:
-    branches:
-      - master
-    types:
-      - opened
-      - synchronize
+  repository_dispatch:
+    types: [org-workflow-bot]
 
 jobs:
   merge-me:
     runs-on: ubuntu-latest
     steps:
-        uses: ridedott/merge-me-action@v2
+      - uses: ridedott/merge-me-action@v2
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     timeout-minutes: 5
