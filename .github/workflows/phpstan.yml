@@ -6,7 +6,7 @@ on:
 
 jobs:
   phpstan:
-    name: PHPStan Analysis
+    name: PHPStan Analysis for ${{ github.event.repository.name }}
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, '[ci skip]')"
     steps:
